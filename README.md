@@ -9,7 +9,7 @@ Command
 ./lynis audit system --quick
 ```
 Output
-´``
+```
 
 [ Lynis 3.1.6 ]
 
